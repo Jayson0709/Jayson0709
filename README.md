@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayson0709
 - 👀 I’m interested in Cloud Computing and Database systems.
-- 🌱 I’m currently learning Spring Boot, Kubernetes, Big Data, and MySQL.
+- 🌱 I’m currently learning Spring Boot, Kubernetes, Big Data, MySQL, and Go.
 - 📫 How to reach me: Instagram username **tiny_george_**
 
 <!---
